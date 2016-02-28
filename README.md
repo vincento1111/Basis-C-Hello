@@ -5,7 +5,7 @@ Det skal ikke være svært at lave første og traditionelle "Hello World" progra
 
 Det ser sådan her ud:
 
-```
+```C
 #include <stdio.h>
 
 int main (void)
