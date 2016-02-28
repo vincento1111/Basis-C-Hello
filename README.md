@@ -1,5 +1,5 @@
 # Basis-C-Hello
-Det første program med C
+##### Det første program med C
 
 Det skal ikke være svært at lave første og traditionelle "Hello World" program i noget sprog. Meningen er at få det første hul igennem, og, fra programmet, udskrive det første "Hallo!", ("Hva' så ROSKILDEEEE?!").
 
