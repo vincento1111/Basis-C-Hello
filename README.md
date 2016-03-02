@@ -5,6 +5,8 @@
 
 Det skal ikke være svært at lave første og traditionelle "Hello World" program i noget sprog. Meningen er at få det første hul igennem, og, fra programmet, udskrive det første "Hallo!", ("Hva' så ROSKILDEEEE?!").
 
+- Åbn `hello.c`
+
 Det ser sådan her ud:
 
 ```C
@@ -15,7 +17,7 @@ int main (void)
     printf("Hello World\n");
 }
 ```
-- Gem filen, og giv den navnet `hello.c`.
+- Gem filen`.
 - I kommando-panelet skriver du `gcc hello.c` og tryk [enter].
 - Tjek hvad der er kommet ud af det med kommandoen `ls`. Der skulle gerne være en fil der hedder `a.out`. Den skal vi køre...
 
